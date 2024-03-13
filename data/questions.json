@@ -1,1437 +1,425 @@
-[
-    {
-        "tags": [
-            "python",
-            "python-black"
-        ],
-        "owner": {
-            "account_id": 13900281,
-            "reputation": 12122,
-            "user_id": 10036039,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/8790cbc891c02fffb597317b43a063fa?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "zerocewl",
-            "link": "https://stackoverflow.com/users/10036039/zerocewl"
-        },
-        "is_answered": true,
-        "view_count": 83840,
-        "accepted_answer_id": 71674345,
-        "answer_count": 6,
-        "score": 178,
-        "last_activity_date": 1701665110,
-        "creation_date": 1648626375,
-        "last_edit_date": 1651785651,
-        "question_id": 71673404,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71673404/importerror-cannot-import-name-unicodefun-from-click",
-        "title": "ImportError: cannot import name &#39;_unicodefun&#39; from &#39;click&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "machine-learning",
-            "package",
-            "conda",
-            "python-poetry"
-        ],
-        "owner": {
-            "account_id": 1449869,
-            "reputation": 2779,
-            "user_id": 1367124,
-            "user_type": "registered",
-            "accept_rate": 68,
-            "profile_image": "https://i.stack.imgur.com/azGrD.jpg?s=256&g=1",
-            "display_name": "Seub",
-            "link": "https://stackoverflow.com/users/1367124/seub"
-        },
-        "is_answered": true,
-        "view_count": 73015,
-        "accepted_answer_id": 71110028,
-        "answer_count": 3,
-        "score": 164,
-        "last_activity_date": 1699380700,
-        "creation_date": 1643123383,
-        "last_edit_date": 1643126235,
-        "question_id": 70851048,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/70851048/does-it-make-sense-to-use-conda-poetry",
-        "title": "Does it make sense to use Conda + Poetry?"
-    },
-    {
-        "tags": [
-            "python",
-            "pandas",
-            "dataframe",
-            "data-wrangling",
-            "data-munging"
-        ],
-        "owner": {
-            "account_id": 29727,
-            "reputation": 4653,
-            "user_id": 80544,
-            "user_type": "registered",
-            "accept_rate": 79,
-            "profile_image": "https://i.stack.imgur.com/HtN07.jpg?s=256&g=1",
-            "display_name": "Glenn",
-            "link": "https://stackoverflow.com/users/80544/glenn"
-        },
-        "is_answered": true,
-        "view_count": 194276,
-        "accepted_answer_id": 70837545,
-        "answer_count": 8,
-        "score": 156,
-        "last_activity_date": 1709660353,
-        "creation_date": 1643042804,
-        "last_edit_date": 1645482240,
-        "question_id": 70837397,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/70837397/good-alternative-to-pandas-append-method-now-that-it-is-being-deprecated",
-        "title": "Good alternative to Pandas .append() method, now that it is being deprecated?"
-    },
-    {
-        "tags": [
-            "python",
-            "google-analytics-api"
-        ],
-        "owner": {
-            "account_id": 6468208,
-            "reputation": 6705,
-            "user_id": 5009293,
-            "user_type": "registered",
-            "accept_rate": 76,
-            "profile_image": "https://graph.facebook.com/995762863775266/picture?type=large",
-            "display_name": "Doug Coats",
-            "link": "https://stackoverflow.com/users/5009293/doug-coats"
-        },
-        "is_answered": true,
-        "view_count": 246405,
-        "accepted_answer_id": 73932621,
-        "answer_count": 20,
-        "score": 153,
-        "last_activity_date": 1709998899,
-        "creation_date": 1663949925,
-        "last_edit_date": 1704753149,
-        "question_id": 73830524,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/73830524/attributeerror-module-lib-has-no-attribute-x509-v-flag-cb-issuer-check",
-        "title": "AttributeError: module &#39;lib&#39; has no attribute &#39;X509_V_FLAG_CB_ISSUER_CHECK&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "flask",
-            "pytest",
-            "werkzeug"
-        ],
-        "owner": {
-            "account_id": 20745029,
-            "reputation": 2021,
-            "user_id": 15233792,
-            "user_type": "registered",
-            "profile_image": "https://i.stack.imgur.com/2ol6b.jpg?s=256&g=1",
-            "display_name": "stevezkw",
-            "link": "https://stackoverflow.com/users/15233792/stevezkw"
-        },
-        "is_answered": true,
-        "view_count": 112456,
-        "protected_date": 1698079880,
-        "accepted_answer_id": 77214086,
-        "answer_count": 6,
-        "score": 147,
-        "last_activity_date": 1708084399,
-        "creation_date": 1696215720,
-        "last_edit_date": 1700174126,
-        "question_id": 77213053,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/77213053/why-did-flask-start-failing-with-importerror-cannot-import-name-url-quote-fr",
-        "title": "Why did Flask start failing with &quot;ImportError: cannot import name &#39;url_quote&#39; from &#39;werkzeug.urls&#39;&quot;?"
-    },
-    {
-        "tags": [
-            "python",
-            "prompt",
-            "openai-api",
-            "completion",
-            "chatgpt-api"
-        ],
-        "owner": {
-            "account_id": 3235065,
-            "reputation": 2100,
-            "user_id": 3018860,
-            "user_type": "registered",
-            "accept_rate": 89,
-            "profile_image": "https://www.gravatar.com/avatar/edec84abcde58e8f5d45a7e5522ff1e1?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Unix",
-            "link": "https://stackoverflow.com/users/3018860/unix"
-        },
-        "is_answered": true,
-        "view_count": 270664,
-        "closed_date": 1685124780,
-        "accepted_answer_id": 75898717,
-        "answer_count": 5,
-        "score": 127,
-        "last_activity_date": 1704422130,
-        "creation_date": 1680263884,
-        "last_edit_date": 1704294387,
-        "question_id": 75898276,
-        "link": "https://stackoverflow.com/questions/75898276/openai-api-error-429-you-exceeded-your-current-quota-please-check-your-plan-a",
-        "closed_reason": "Not suitable for this site",
-        "title": "OpenAI API error 429: &quot;You exceeded your current quota, please check your plan and billing details&quot;"
-    },
-    {
-        "tags": [
-            "python",
-            "openai-api",
-            "urllib3"
-        ],
-        "owner": {
-            "account_id": 11229285,
-            "reputation": 1353,
-            "user_id": 8237910,
-            "user_type": "registered",
-            "profile_image": "https://lh5.googleusercontent.com/-OajeBMxDGMo/AAAAAAAAAAI/AAAAAAAAAmQ/8vm8L0FQK1c/photo.jpg?sz=256",
-            "display_name": "prismwatermelon",
-            "link": "https://stackoverflow.com/users/8237910/prismwatermelon"
-        },
-        "is_answered": true,
-        "view_count": 263116,
-        "accepted_answer_id": 76187415,
-        "answer_count": 15,
-        "score": 125,
-        "last_activity_date": 1704842074,
-        "creation_date": 1683349902,
-        "last_edit_date": 1691972425,
-        "question_id": 76187256,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/76187256/importerror-urllib3-v2-0-only-supports-openssl-1-1-1-currently-the-ssl-modu",
-        "title": "ImportError: urllib3 v2.0 only supports OpenSSL 1.1.1+, currently the &#39;ssl&#39; module is compiled with LibreSSL 2.8.3"
-    },
-    {
-        "tags": [
-            "python",
-            "docker",
-            "docker-compose",
-            "dependencies",
-            "importerror"
-        ],
-        "owner": {
-            "account_id": 3369545,
-            "reputation": 3251,
-            "user_id": 2829150,
-            "user_type": "registered",
-            "accept_rate": 51,
-            "profile_image": "https://www.gravatar.com/avatar/1e9c788890b3d2a8e468ed2773864b2c?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Arie",
-            "link": "https://stackoverflow.com/users/2829150/arie"
-        },
-        "is_answered": true,
-        "view_count": 169909,
-        "protected_date": 1691442712,
-        "answer_count": 15,
-        "score": 122,
-        "last_activity_date": 1699634829,
-        "creation_date": 1652208276,
-        "last_edit_date": 1667754370,
-        "question_id": 72191560,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72191560/importerror-cannot-import-name-soft-unicode-from-markupsafe",
-        "title": "ImportError: cannot import name &#39;soft_unicode&#39; from &#39;markupsafe&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "selenium",
-            "google-chrome",
-            "selenium-webdriver",
-            "selenium-chromedriver"
-        ],
-        "owner": {
-            "account_id": 19488994,
-            "reputation": 1193,
-            "user_id": 14257612,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/c49440f3d6f3831211bcb56d9614a61e?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Alesss",
-            "link": "https://stackoverflow.com/users/14257612/alesss"
-        },
-        "is_answered": true,
-        "view_count": 275611,
-        "accepted_answer_id": 72773269,
-        "answer_count": 4,
-        "score": 119,
-        "last_activity_date": 1700498304,
-        "creation_date": 1656337711,
-        "last_edit_date": 1661689426,
-        "question_id": 72773206,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72773206/selenium-python-attributeerror-webdriver-object-has-no-attribute-find-el",
-        "title": "Selenium - Python - AttributeError: &#39;WebDriver&#39; object has no attribute &#39;find_element_by_name&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "linux",
-            "openssl",
-            "python-poetry"
-        ],
-        "owner": {
-            "account_id": 7489950,
-            "reputation": 4876,
-            "user_id": 5692012,
-            "user_type": "registered",
-            "accept_rate": 50,
-            "profile_image": "https://i.stack.imgur.com/a3FwR.gif?s=256&g=1",
-            "display_name": "RobinFrcd",
-            "link": "https://stackoverflow.com/users/5692012/robinfrcd"
-        },
-        "is_answered": true,
-        "view_count": 227326,
-        "accepted_answer_id": 72633324,
-        "answer_count": 15,
-        "score": 115,
-        "last_activity_date": 1709132273,
-        "creation_date": 1651782719,
-        "last_edit_date": 1675089528,
-        "question_id": 72133316,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72133316/libssl-so-1-1-cannot-open-shared-object-file-no-such-file-or-directory",
-        "title": "libssl.so.1.1: cannot open shared object file: No such file or directory"
-    },
-    {
-        "tags": [
-            "python",
-            "windows",
-            "visual-studio-2022"
-        ],
-        "owner": {
-            "account_id": 2813476,
-            "reputation": 1823,
-            "user_id": 2419205,
-            "user_type": "registered",
-            "accept_rate": 52,
-            "profile_image": "https://www.gravatar.com/avatar/5a4b5ff5c0d06ba079e8d974dd8309b4?s=256&d=identicon&r=PG",
-            "display_name": "Starfleet Security",
-            "link": "https://stackoverflow.com/users/2419205/starfleet-security"
-        },
-        "is_answered": true,
-        "view_count": 7361,
-        "answer_count": 9,
-        "score": 106,
-        "last_activity_date": 1668277374,
-        "creation_date": 1645204638,
-        "last_edit_date": 1648802107,
-        "question_id": 71177450,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71177450/unable-to-restore-visual-studio-2022-window-ide-itself-after-minimizing",
-        "title": "Unable to restore Visual Studio 2022 window (IDE itself) after minimizing"
-    },
-    {
-        "tags": [
-            "python",
-            "string",
-            "reference",
-            "immutability",
-            "string-concatenation"
-        ],
-        "owner": {
-            "account_id": 6666507,
-            "reputation": 1245,
-            "user_id": 5144013,
-            "user_type": "registered",
-            "accept_rate": 44,
-            "profile_image": "https://lh3.googleusercontent.com/-gaua46VyxKQ/AAAAAAAAAAI/AAAAAAAAHxg/M-29RPq_C6E/photo.jpg?sz=256",
-            "display_name": "Master_Roshy",
-            "link": "https://stackoverflow.com/users/5144013/master-roshy"
-        },
-        "is_answered": true,
-        "view_count": 6970,
-        "protected_date": 1657262192,
-        "answer_count": 4,
-        "score": 102,
-        "last_activity_date": 1657261330,
-        "creation_date": 1654830500,
-        "last_edit_date": 1654982358,
-        "question_id": 72568719,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72568719/if-python-strings-are-immutable-why-does-it-keep-the-same-id-if-i-use-to-app",
-        "title": "If Python strings are immutable, why does it keep the same id if I use += to append to it?"
-    },
-    {
-        "tags": [
-            "python",
-            "cpython",
-            "python-internals"
-        ],
-        "owner": {
-            "account_id": 17476274,
-            "reputation": 26839,
-            "user_id": 12671057,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/90d2e6942c69df199a95d06e0c8e9a10?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Kelly Bundy",
-            "link": "https://stackoverflow.com/users/12671057/kelly-bundy"
-        },
-        "is_answered": true,
-        "view_count": 8385,
-        "closed_date": 1643494282,
-        "accepted_answer_id": 70882093,
-        "answer_count": 3,
-        "score": 101,
-        "last_activity_date": 1644084297,
-        "creation_date": 1643300597,
-        "last_edit_date": 1644083484,
-        "question_id": 70882092,
-        "link": "https://stackoverflow.com/questions/70882092/can-we-make-1-2-true",
-        "closed_reason": "Duplicate",
-        "title": "Can we make 1 == 2 true?"
-    },
-    {
-        "tags": [
-            "python",
-            "ubuntu",
-            "pip",
-            "wsl-2"
-        ],
-        "owner": {
-            "account_id": 7752222,
-            "reputation": 1125,
-            "user_id": 6799513,
-            "user_type": "registered",
-            "profile_image": "https://i.stack.imgur.com/Bha40.jpg?s=256&g=1",
-            "display_name": "patrick",
-            "link": "https://stackoverflow.com/users/6799513/patrick"
-        },
-        "is_answered": true,
-        "view_count": 91352,
-        "accepted_answer_id": 75053968,
-        "answer_count": 4,
-        "score": 92,
-        "last_activity_date": 1702742218,
-        "creation_date": 1672657056,
-        "last_edit_date": 1672657567,
-        "question_id": 74981558,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/74981558/error-updating-python3-pip-attributeerror-module-lib-has-no-attribute-openss",
-        "title": "Error Updating Python3 pip AttributeError: module &#39;lib&#39; has no attribute &#39;OpenSSL_add_all_algorithms&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "pip"
-        ],
-        "owner": {
-            "account_id": 15449541,
-            "reputation": 1061,
-            "user_id": 17660775,
-            "user_type": "registered",
-            "profile_image": "https://graph.facebook.com/2328891030722501/picture?type=large",
-            "display_name": "Abdeldjalil Sekkal",
-            "link": "https://stackoverflow.com/users/17660775/abdeldjalil-sekkal"
-        },
-        "is_answered": true,
-        "view_count": 178465,
-        "protected_date": 1676571122,
-        "answer_count": 10,
-        "score": 90,
-        "last_activity_date": 1702941130,
-        "creation_date": 1653937478,
-        "last_edit_date": 1702941130,
-        "question_id": 72439001,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72439001/there-was-an-error-checking-the-latest-version-of-pip",
-        "title": "There was an error checking the latest version of pip"
-    },
-    {
+{
+    "70730831": {
+        "sentence": "What&#39;s the mathematical reason behind Python choosing to round integer division toward negative infinity?",
         "tags": [
             "python",
             "c++",
             "python-3.x",
             "rounding",
             "integer-division"
-        ],
-        "owner": {
-            "account_id": 7923772,
-            "reputation": 7186,
-            "user_id": 5983841,
-            "user_type": "registered",
-            "accept_rate": 62,
-            "profile_image": "https://i.stack.imgur.com/GHJxG.jpg?s=256&g=1",
-            "display_name": "Rick",
-            "link": "https://stackoverflow.com/users/5983841/rick"
-        },
-        "is_answered": true,
-        "view_count": 8459,
-        "accepted_answer_id": 70735005,
-        "answer_count": 8,
-        "score": 88,
-        "last_activity_date": 1660790087,
-        "creation_date": 1642342052,
-        "last_edit_date": 1643506145,
-        "question_id": 70730831,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/70730831/whats-the-mathematical-reason-behind-python-choosing-to-round-integer-division",
-        "title": "What&#39;s the mathematical reason behind Python choosing to round integer division toward negative infinity?"
+        ]
     },
-    {
+    "70793490": {
+        "sentence": "How do I calculate square root in Python?",
         "tags": [
             "python",
-            "ffmpeg",
-            "discord",
-            "youtube-dl"
-        ],
-        "owner": {
-            "account_id": 27587346,
-            "reputation": 853,
-            "user_id": 21055247,
-            "user_type": "registered",
-            "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp68sX4uwH8oI00wq1qnsHwmhUC3m9kFQUea4JSE=k-s256",
-            "display_name": "nikita goncharov",
-            "link": "https://stackoverflow.com/users/21055247/nikita-goncharov"
-        },
-        "is_answered": true,
-        "view_count": 100087,
-        "accepted_answer_id": 75504772,
-        "answer_count": 9,
-        "score": 83,
-        "last_activity_date": 1705707722,
-        "creation_date": 1676747963,
-        "last_edit_date": 1700757654,
-        "question_id": 75495800,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/75495800/error-unable-to-extract-uploader-id-youtube-discord-py",
-        "title": "Error: Unable to extract uploader id - Youtube, Discord.py"
+            "math",
+            "sqrt"
+        ]
     },
-    {
+    "70837397": {
+        "sentence": "Good alternative to Pandas .append() method, now that it is being deprecated?",
         "tags": [
             "python",
-            "python-typing"
-        ],
-        "owner": {
-            "account_id": 1881254,
-            "reputation": 1448,
-            "user_id": 1701415,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/cb5160e829bd4a3a0863e8bd6cff9aea?s=256&d=identicon&r=PG",
-            "display_name": "Jesse",
-            "link": "https://stackoverflow.com/users/1701415/jesse"
-        },
-        "is_answered": true,
-        "view_count": 43160,
-        "accepted_answer_id": 76399911,
-        "answer_count": 4,
-        "score": 80,
-        "last_activity_date": 1703855385,
-        "creation_date": 1650158620,
-        "question_id": 71898644,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71898644/how-to-use-python-typing-annotated",
-        "title": "How to use python typing.Annotated?"
+            "pandas",
+            "dataframe",
+            "data-wrangling",
+            "data-munging"
+        ]
     },
-    {
+    "70851048": {
+        "sentence": "Does it make sense to use Conda + Poetry?",
         "tags": [
             "python",
-            "linux"
-        ],
-        "owner": {
-            "account_id": 27907651,
-            "reputation": 899,
-            "user_id": 21310501,
-            "user_type": "registered",
-            "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxb3a8PSNvhapdvFSFi0i8vX_XG9vbYoqiUUjBzk=k-s256",
-            "display_name": "iReXes ",
-            "link": "https://stackoverflow.com/users/21310501/irexes"
-        },
-        "is_answered": true,
-        "view_count": 180700,
-        "answer_count": 10,
-        "score": 79,
-        "last_activity_date": 1707633599,
-        "creation_date": 1677664429,
-        "last_edit_date": 1694076936,
-        "question_id": 75602063,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/75602063/pip-install-r-requirements-txt-is-failing-this-environment-is-externally-mana",
-        "title": "pip install -r requirements.txt is failing: &quot;This environment is externally managed&quot;"
-    },
-    {
-        "tags": [
-            "python",
-            "python-3.x",
-            "pip"
-        ],
-        "owner": {
-            "account_id": 23650540,
-            "reputation": 835,
-            "user_id": 17679479,
-            "user_type": "registered",
-            "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gir3m-DTE1Yx2GwtNYJ0w02mRyRj-8yB5ZPmIx5=k-s256",
-            "display_name": "BRICK MANE",
-            "link": "https://stackoverflow.com/users/17679479/brick-mane"
-        },
-        "is_answered": true,
-        "view_count": 162377,
-        "answer_count": 15,
-        "score": 77,
-        "last_activity_date": 1710109987,
-        "creation_date": 1643729700,
-        "last_edit_date": 1658994516,
-        "question_id": 70943244,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/70943244/attributeerror-module-collections-has-no-attribute-mutablemapping",
-        "title": "AttributeError: module &#39;collections&#39; has no attribute &#39;MutableMapping&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "performance",
-            "comparison"
-        ],
-        "owner": {
-            "account_id": 393493,
-            "reputation": 4961,
-            "user_id": 755371,
-            "user_type": "registered",
-            "accept_rate": 44,
-            "profile_image": "https://i.stack.imgur.com/Cmp2K.png?s=256&g=1",
-            "display_name": "Eric",
-            "link": "https://stackoverflow.com/users/755371/eric"
-        },
-        "is_answered": true,
-        "view_count": 8037,
-        "closed_date": 1648640765,
-        "accepted_answer_id": 71644988,
-        "answer_count": 2,
-        "score": 77,
-        "last_activity_date": 1648641525,
-        "creation_date": 1648455910,
-        "last_edit_date": 1648563343,
-        "question_id": 71644405,
-        "link": "https://stackoverflow.com/questions/71644405/why-is-it-faster-to-compare-strings-that-match-than-strings-that-do-not",
-        "closed_reason": "Duplicate",
-        "title": "Why is it faster to compare strings that match than strings that do not?"
-    },
-    {
-        "tags": [
-            "python",
-            "django",
-            "digital-ocean"
-        ],
-        "owner": {
-            "account_id": 8967886,
-            "reputation": 3802,
-            "user_id": 6687699,
-            "user_type": "registered",
-            "accept_rate": 58,
-            "profile_image": "https://i.stack.imgur.com/4Snxy.jpg?s=256&g=1",
-            "display_name": "Lutaaya Huzaifah Idris",
-            "link": "https://stackoverflow.com/users/6687699/lutaaya-huzaifah-idris"
-        },
-        "is_answered": true,
-        "view_count": 45258,
-        "accepted_answer_id": 73932581,
-        "answer_count": 6,
-        "score": 76,
-        "last_activity_date": 1704807596,
-        "creation_date": 1664747002,
-        "question_id": 73929564,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/73929564/entrypoints-object-has-no-attribute-get-digital-ocean",
-        "title": "&#39;EntryPoints&#39; object has no attribute &#39;get&#39; - Digital ocean"
-    },
-    {
-        "tags": [
-            "python",
-            "ssl",
-            "openssl",
-            "runtime-error"
-        ],
-        "owner": {
-            "account_id": 17018517,
-            "reputation": 851,
-            "user_id": 12311729,
-            "user_type": "registered",
-            "profile_image": "https://graph.facebook.com/2152598004840080/picture?type=large",
-            "display_name": "Gianmarco Broilo",
-            "link": "https://stackoverflow.com/users/12311729/gianmarco-broilo"
-        },
-        "is_answered": true,
-        "view_count": 172117,
-        "accepted_answer_id": 72374542,
-        "answer_count": 12,
-        "score": 74,
-        "last_activity_date": 1708468213,
-        "creation_date": 1648128152,
-        "last_edit_date": 1700615763,
-        "question_id": 71603314,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71603314/ssl-error-unsafe-legacy-renegotiation-disabled",
-        "title": "SSL error unsafe legacy renegotiation disabled"
-    },
-    {
-        "tags": [
-            "python",
-            "pre-commit",
-            "pre-commit.com",
-            "isort"
-        ],
-        "owner": {
-            "account_id": 8247924,
-            "reputation": 6165,
-            "user_id": 6203472,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/6854a8b5ed6ad561c0ab878c7558fb26?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "bagerard",
-            "link": "https://stackoverflow.com/users/6203472/bagerard"
-        },
-        "is_answered": true,
-        "view_count": 14547,
-        "accepted_answer_id": 75269701,
-        "answer_count": 5,
-        "score": 74,
-        "last_activity_date": 1678725721,
-        "creation_date": 1674928449,
-        "last_edit_date": 1675093819,
-        "question_id": 75269700,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/75269700/pre-commit-fails-to-install-isort-5-11-4-with-error-runtimeerror-the-poetry-co",
-        "title": "pre-commit fails to install isort 5.11.4 with error &quot;RuntimeError: The Poetry configuration is invalid&quot;"
-    },
-    {
-        "tags": [
-            "python",
+            "machine-learning",
+            "package",
+            "conda",
             "python-poetry"
-        ],
-        "owner": {
-            "account_id": 5622044,
-            "reputation": 8419,
-            "user_id": 4451521,
-            "user_type": "registered",
-            "accept_rate": 34,
-            "profile_image": "https://www.gravatar.com/avatar/4b19b54142d820aad565ca95f920c11c?s=256&d=identicon&r=PG",
-            "display_name": "KansaiRobot",
-            "link": "https://stackoverflow.com/users/4451521/kansairobot"
-        },
-        "is_answered": true,
-        "view_count": 44310,
-        "answer_count": 5,
-        "score": 74,
-        "last_activity_date": 1708682470,
-        "creation_date": 1675940902,
-        "question_id": 75397736,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/75397736/poetry-install-on-an-existing-project-error-does-not-contain-any-element",
-        "title": "Poetry install on an existing project Error &quot;does not contain any element&quot;"
+        ]
     },
-    {
+    "70882092": {
+        "sentence": "Can we make 1 == 2 true?",
         "tags": [
             "python",
-            "enums",
-            "f-string"
-        ],
-        "owner": {
-            "account_id": 10991861,
-            "reputation": 6493,
-            "user_id": 8075540,
-            "user_type": "registered",
-            "profile_image": "https://i.stack.imgur.com/0eZhT.jpg?s=256&g=1",
-            "display_name": "Daniel Walker",
-            "link": "https://stackoverflow.com/users/8075540/daniel-walker"
-        },
-        "is_answered": true,
-        "view_count": 8893,
-        "accepted_answer_id": 72449614,
-        "answer_count": 2,
-        "score": 73,
-        "last_activity_date": 1693593159,
-        "creation_date": 1654006677,
-        "last_edit_date": 1660255156,
-        "question_id": 72449482,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72449482/f-string-representation-different-than-str",
-        "title": "f-string representation different than str()"
+            "cpython",
+            "python-internals"
+        ]
     },
-    {
+    "70943244": {
+        "sentence": "AttributeError: module &#39;collections&#39; has no attribute &#39;MutableMapping&#39;",
         "tags": [
             "python",
             "python-3.x",
             "pip"
-        ],
-        "owner": {
-            "account_id": 6714573,
-            "reputation": 991,
-            "user_id": 6323020,
-            "user_type": "registered",
-            "accept_rate": 50,
-            "profile_image": "https://www.gravatar.com/avatar/ca1065f7cc55d81ea1ea374b14113ac4?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "sreeraj t",
-            "link": "https://stackoverflow.com/users/6323020/sreeraj-t"
-        },
-        "is_answered": true,
-        "view_count": 69473,
-        "accepted_answer_id": 77364602,
-        "answer_count": 3,
-        "score": 71,
-        "last_activity_date": 1707229343,
-        "creation_date": 1698301344,
-        "last_edit_date": 1704602075,
-        "question_id": 77364550,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/77364550/attributeerror-module-pkgutil-has-no-attribute-impimporter-did-you-mean",
-        "title": "AttributeError: module &#39;pkgutil&#39; has no attribute &#39;ImpImporter&#39;. Did you mean: &#39;zipimporter&#39;?"
+        ]
     },
-    {
+    "71102876": {
+        "sentence": "in ipython how do I accept and use an autocomplete suggestion?",
+        "tags": [
+            "python",
+            "ipython"
+        ]
+    },
+    "71177450": {
+        "sentence": "Unable to restore Visual Studio 2022 window (IDE itself) after minimizing",
+        "tags": [
+            "python",
+            "windows",
+            "visual-studio-2022"
+        ]
+    },
+    "71189819": {
+        "sentence": "ImportError: cannot import name &#39;json&#39; from itsdangerous",
         "tags": [
             "python",
             "docker",
             "flask",
             "docker-compose"
-        ],
-        "owner": {
-            "account_id": 22335364,
-            "reputation": 894,
-            "user_id": 16556045,
-            "user_type": "registered",
-            "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GitmoVYWKb7Xize5hPMshSWNoFyMKSumgrMWNBXBA=k-s256",
-            "display_name": "KronosHedronos2077",
-            "link": "https://stackoverflow.com/users/16556045/kronoshedronos2077"
-        },
-        "is_answered": true,
-        "view_count": 77403,
-        "accepted_answer_id": 71219718,
-        "answer_count": 11,
-        "score": 70,
-        "last_activity_date": 1691078711,
-        "creation_date": 1645310480,
-        "last_edit_date": 1663178530,
-        "question_id": 71189819,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71189819/importerror-cannot-import-name-json-from-itsdangerous",
-        "title": "ImportError: cannot import name &#39;json&#39; from itsdangerous"
+        ]
     },
-    {
-        "tags": [
-            "python",
-            "tensorflow",
-            "conda",
-            "apple-m1"
-        ],
-        "owner": {
-            "account_id": 114708,
-            "reputation": 11109,
-            "user_id": 301513,
-            "user_type": "registered",
-            "accept_rate": 47,
-            "profile_image": "https://i.stack.imgur.com/oWFRY.png?s=256&g=1",
-            "display_name": "Qiulang",
-            "link": "https://stackoverflow.com/users/301513/qiulang"
-        },
-        "is_answered": true,
-        "view_count": 73443,
-        "protected_date": 1694544271,
-        "answer_count": 15,
-        "score": 70,
-        "last_activity_date": 1702108628,
-        "creation_date": 1657708328,
-        "last_edit_date": 1695005358,
-        "question_id": 72964800,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72964800/what-is-the-proper-way-to-install-tensorflow-on-apple-m1-in-2022",
-        "title": "What is the proper way to install TensorFlow on Apple M1 in 2022"
-    },
-    {
-        "tags": [
-            "python",
-            "python-imaging-library"
-        ],
-        "owner": {
-            "account_id": 26367272,
-            "reputation": 656,
-            "user_id": 20022511,
-            "user_type": "registered",
-            "profile_image": "https://i.stack.imgur.com/zvtp5.png?s=256&g=1",
-            "display_name": "MT_276",
-            "link": "https://stackoverflow.com/users/20022511/mt-276"
-        },
-        "is_answered": true,
-        "view_count": 106903,
-        "accepted_answer_id": 76616129,
-        "answer_count": 8,
-        "score": 65,
-        "last_activity_date": 1707502695,
-        "creation_date": 1688507881,
-        "last_edit_date": 1704562499,
-        "question_id": 76616042,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/76616042/attributeerror-module-pil-image-has-no-attribute-antialias",
-        "title": "AttributeError: module &#39;PIL.Image&#39; has no attribute &#39;ANTIALIAS&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "pip",
-            "setuptools",
-            "pyproject.toml"
-        ],
-        "owner": {
-            "account_id": 2017134,
-            "reputation": 24785,
-            "user_id": 1804173,
-            "user_type": "registered",
-            "accept_rate": 77,
-            "profile_image": "https://www.gravatar.com/avatar/53f721a451a1c68caf8316cefcde3083?s=256&d=identicon&r=PG",
-            "display_name": "bluenote10",
-            "link": "https://stackoverflow.com/users/1804173/bluenote10"
-        },
-        "is_answered": true,
-        "view_count": 28915,
-        "accepted_answer_id": 73600610,
-        "answer_count": 2,
-        "score": 65,
-        "last_activity_date": 1709564896,
-        "creation_date": 1662300788,
-        "last_edit_date": 1667985506,
-        "question_id": 73600082,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/73600082/how-to-reference-a-requirements-txt-in-the-pyproject-toml-of-a-setuptools-projec",
-        "title": "How to reference a requirements.txt in the pyproject.toml of a setuptools project?"
-    },
-    {
-        "tags": [
-            "python",
-            "numpy"
-        ],
-        "owner": {
-            "account_id": 12810242,
-            "reputation": 854,
-            "user_id": 9481479,
-            "user_type": "registered",
-            "profile_image": "https://graph.facebook.com/1769985833305230/picture?type=large",
-            "display_name": "Nawin K Sharma",
-            "link": "https://stackoverflow.com/users/9481479/nawin-k-sharma"
-        },
-        "is_answered": true,
-        "view_count": 111496,
-        "accepted_answer_id": 74861894,
-        "answer_count": 8,
-        "score": 64,
-        "last_activity_date": 1706669762,
-        "creation_date": 1671396136,
-        "last_edit_date": 1677183023,
-        "question_id": 74844262,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/74844262/how-can-i-solve-error-module-numpy-has-no-attribute-float-in-python",
-        "title": "How can I solve error &quot;module &#39;numpy&#39; has no attribute &#39;float&#39;&quot; in Python?"
-    },
-    {
-        "tags": [
-            "python",
-            "python-poetry"
-        ],
-        "owner": {
-            "account_id": 442058,
-            "reputation": 266,
-            "user_id": 832490,
-            "user_type": "registered",
-            "accept_rate": 100,
-            "profile_image": "https://www.gravatar.com/avatar/38de998f10120ac8f0dab7f193bedf2b?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Rodrigo",
-            "link": "https://stackoverflow.com/users/832490/rodrigo"
-        },
-        "is_answered": true,
-        "view_count": 42019,
-        "accepted_answer_id": 72547402,
-        "answer_count": 2,
-        "score": 64,
-        "last_activity_date": 1689952254,
-        "creation_date": 1652898582,
-        "last_edit_date": 1652904288,
-        "question_id": 72294299,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72294299/multiple-top-level-packages-discovered-in-a-flat-layout",
-        "title": "Multiple top-level packages discovered in a flat-layout"
-    },
-    {
-        "tags": [
-            "python",
-            "django",
-            "heroku"
-        ],
-        "owner": {
-            "account_id": 16660311,
-            "reputation": 729,
-            "user_id": 12040445,
-            "user_type": "registered",
-            "profile_image": "https://i.stack.imgur.com/ydOnG.jpg?s=256&g=1",
-            "display_name": "SarveshJoshi",
-            "link": "https://stackoverflow.com/users/12040445/sarveshjoshi"
-        },
-        "is_answered": true,
-        "view_count": 93733,
-        "accepted_answer_id": 72796492,
-        "answer_count": 11,
-        "score": 63,
-        "last_activity_date": 1697317485,
-        "creation_date": 1648843469,
-        "question_id": 71712258,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71712258/error-could-not-build-wheels-for-backports-zoneinfo-which-is-required-to-insta",
-        "title": "ERROR: Could not build wheels for backports.zoneinfo, which is required to install pyproject.toml-based projects"
-    },
-    {
-        "tags": [
-            "python",
-            "ipython"
-        ],
-        "owner": {
-            "account_id": 3582471,
-            "reputation": 2691,
-            "user_id": 2990344,
-            "user_type": "registered",
-            "accept_rate": 69,
-            "profile_image": "https://www.gravatar.com/avatar/a3f9a2172c31b0a956c093d24230facd?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "xdavidliu",
-            "link": "https://stackoverflow.com/users/2990344/xdavidliu"
-        },
-        "is_answered": true,
-        "view_count": 9876,
-        "accepted_answer_id": 71459528,
-        "answer_count": 3,
-        "score": 63,
-        "last_activity_date": 1684946724,
-        "creation_date": 1644771035,
-        "question_id": 71102876,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71102876/in-ipython-how-do-i-accept-and-use-an-autocomplete-suggestion",
-        "title": "in ipython how do I accept and use an autocomplete suggestion?"
-    },
-    {
-        "tags": [
-            "python",
-            "python-3.x",
-            "pycharm"
-        ],
-        "owner": {
-            "account_id": 6823618,
-            "reputation": 1062,
-            "user_id": 5250196,
-            "user_type": "registered",
-            "profile_image": "https://i.stack.imgur.com/1QajQ.jpg?s=256&g=1",
-            "display_name": "P2000",
-            "link": "https://stackoverflow.com/users/5250196/p2000"
-        },
-        "is_answered": true,
-        "view_count": 5932,
-        "accepted_answer_id": 72456461,
-        "answer_count": 1,
-        "score": 63,
-        "last_activity_date": 1666193246,
-        "creation_date": 1654055104,
-        "last_edit_date": 1654143878,
-        "question_id": 72456234,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72456234/why-does-print-i-e-three-dots-in-a-row-print-blank",
-        "title": "Why does print(&quot;...&quot;), i.e. three dots in a row, print blank?"
-    },
-    {
-        "tags": [
-            "python",
-            "performance",
-            "cpython",
-            "python-internals",
-            "python-3.11"
-        ],
-        "owner": {
-            "account_id": 17476274,
-            "reputation": 26839,
-            "user_id": 12671057,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/90d2e6942c69df199a95d06e0c8e9a10?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Kelly Bundy",
-            "link": "https://stackoverflow.com/users/12671057/kelly-bundy"
-        },
-        "is_answered": true,
-        "view_count": 9702,
-        "accepted_answer_id": 77635068,
-        "answer_count": 1,
-        "score": 62,
-        "last_activity_date": 1702886328,
-        "creation_date": 1702214257,
-        "last_edit_date": 1702215859,
-        "question_id": 77634955,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/77634955/why-is-the-simpler-loop-slower",
-        "title": "Why is the simpler loop slower?"
-    },
-    {
-        "tags": [
-            "python"
-        ],
-        "owner": {
-            "account_id": 24835532,
-            "reputation": 581,
-            "user_id": 18714220,
-            "user_type": "registered",
-            "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjpNxl2WQc7w30aQ9y641atIyL2lvv3QmWJaerZC04=k-s256",
-            "display_name": "Bachir bessei",
-            "link": "https://stackoverflow.com/users/18714220/bachir-bessei"
-        },
-        "is_answered": true,
-        "view_count": 140973,
-        "answer_count": 18,
-        "score": 58,
-        "last_activity_date": 1704791265,
-        "creation_date": 1649198983,
-        "last_edit_date": 1673098786,
-        "question_id": 71759248,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71759248/importerror-cannot-import-name-builder-from-google-protobuf-internal",
-        "title": "ImportError: cannot import name &#39;builder&#39; from &#39;google.protobuf.internal&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "opencv"
-        ],
-        "owner": {
-            "account_id": 21236531,
-            "reputation": 571,
-            "user_id": 15620641,
-            "user_type": "registered",
-            "profile_image": "https://lh5.googleusercontent.com/-chjRp4lpZnM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVdG7sDDNo-Buu9gVMDrWohJSEFA/s96-c/photo.jpg?sz=256",
-            "display_name": "&#214;mer Faruk Aydın",
-            "link": "https://stackoverflow.com/users/15620641/%c3%96mer-faruk-ayd%c4%b1n"
-        },
-        "is_answered": true,
-        "view_count": 122137,
-        "answer_count": 8,
-        "score": 57,
-        "last_activity_date": 1676875906,
-        "creation_date": 1655839048,
-        "question_id": 72706073,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72706073/attributeerror-partially-initialized-module-cv2-has-no-attribute-gapi-wip-gs",
-        "title": "AttributeError: partially initialized module &#39;cv2&#39; has no attribute &#39;gapi_wip_gst_GStreamerPipeline&#39; (most likely due to a circular import)"
-    },
-    {
-        "tags": [
-            "python",
-            "arrays",
-            "performance",
-            "cpython",
-            "python-internals"
-        ],
-        "owner": {
-            "account_id": 17476274,
-            "reputation": 26839,
-            "user_id": 12671057,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/90d2e6942c69df199a95d06e0c8e9a10?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Kelly Bundy",
-            "link": "https://stackoverflow.com/users/12671057/kelly-bundy"
-        },
-        "is_answered": true,
-        "view_count": 6162,
-        "protected_date": 1676116638,
-        "accepted_answer_id": 75354915,
-        "answer_count": 2,
-        "score": 57,
-        "last_activity_date": 1676242955,
-        "creation_date": 1675620257,
-        "last_edit_date": 1675774367,
-        "question_id": 75354384,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/75354384/why-is-b-pop0-over-200-times-slower-than-del-b0-for-bytearray",
-        "title": "Why is b.pop(0) over 200 times slower than del b[0] for bytearray?"
-    },
-    {
-        "tags": [
-            "python",
-            "json",
-            "dictionary",
-            "python-dataclasses"
-        ],
-        "owner": {
-            "account_id": 14841576,
-            "reputation": 988,
-            "user_id": 10718164,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/acc4f37c0049f3694dd50ae7b9a463a5?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Unknown",
-            "link": "https://stackoverflow.com/users/10718164/unknown"
-        },
-        "is_answered": true,
-        "view_count": 76847,
-        "accepted_answer_id": 72605423,
-        "answer_count": 4,
-        "score": 57,
-        "last_activity_date": 1690999692,
-        "creation_date": 1655132088,
-        "last_edit_date": 1655132451,
-        "question_id": 72604922,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72604922/how-to-convert-python-dataclass-to-dictionary-of-string-literal",
-        "title": "How to convert Python dataclass to dictionary of string literal?"
-    },
-    {
-        "tags": [
-            "python",
-            "amazon-web-services",
-            "amazon-s3",
-            "aws-lambda",
-            "boto3"
-        ],
-        "owner": {
-            "account_id": 5059080,
-            "reputation": 2736,
-            "user_id": 4061339,
-            "user_type": "registered",
-            "accept_rate": 70,
-            "profile_image": "https://i.stack.imgur.com/HeGDO.png?s=256&g=1",
-            "display_name": "dixhom",
-            "link": "https://stackoverflow.com/users/4061339/dixhom"
-        },
-        "is_answered": true,
-        "view_count": 72154,
-        "accepted_answer_id": 76422261,
-        "answer_count": 12,
-        "score": 56,
-        "last_activity_date": 1701286615,
-        "creation_date": 1686053443,
-        "question_id": 76414514,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/76414514/cannot-import-name-default-ciphers-from-urllib3-util-ssl-on-aws-lambda-us",
-        "title": "&quot;cannot import name &#39;DEFAULT_CIPHERS&#39; from &#39;urllib3.util.ssl_&#39;&quot; on AWS Lambda using a layer"
-    },
-    {
-        "tags": [
-            "python",
-            "openai-api"
-        ],
-        "owner": {
-            "account_id": 19934883,
-            "reputation": 747,
-            "user_id": 14607802,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/ebb1a082fb58622f567e9f8ba1b480ca?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "Charmalade",
-            "link": "https://stackoverflow.com/users/14607802/charmalade"
-        },
-        "is_answered": true,
-        "view_count": 39936,
-        "answer_count": 6,
-        "score": 56,
-        "last_activity_date": 1696492784,
-        "creation_date": 1670380288,
-        "last_edit_date": 1683994435,
-        "question_id": 74711107,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/74711107/openai-api-continuing-conversation-in-a-dialogue",
-        "title": "OpenAI API continuing conversation in a dialogue"
-    },
-    {
-        "tags": [
-            "python",
-            "c++",
-            "numpy",
-            "complex-numbers",
-            "infinity"
-        ],
-        "owner": {
-            "account_id": 1705643,
-            "reputation": 938,
-            "user_id": 1564730,
-            "user_type": "registered",
-            "accept_rate": 75,
-            "profile_image": "https://www.gravatar.com/avatar/81f8bd69726693149da7f75f0655e5b4?s=256&d=identicon&r=PG",
-            "display_name": "Firman",
-            "link": "https://stackoverflow.com/users/1564730/firman"
-        },
-        "is_answered": true,
-        "view_count": 3945,
-        "accepted_answer_id": 74799453,
-        "answer_count": 3,
-        "score": 55,
-        "last_activity_date": 1671443913,
-        "creation_date": 1671022480,
-        "last_edit_date": 1671437130,
-        "question_id": 74798626,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/74798626/why-is-loginf-inf-j-equal-to-inf-0-785398-j-in-c-python-numpy",
-        "title": "Why is log(inf + inf j) equal to (inf + 0.785398 j), In C++/Python/NumPy?"
-    },
-    {
-        "tags": [
-            "python",
-            "flask",
-            "jinja2"
-        ],
-        "owner": {
-            "account_id": 15865542,
-            "reputation": 1261,
-            "user_id": 11447688,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/16e8410a6faec497b5f4eae530cda0a7?s=256&d=identicon&r=PG&f=y&so-version=2",
-            "display_name": "young_minds1",
-            "link": "https://stackoverflow.com/users/11447688/young-minds1"
-        },
-        "is_answered": true,
-        "view_count": 133939,
-        "answer_count": 12,
-        "score": 55,
-        "last_activity_date": 1691384656,
-        "creation_date": 1648460099,
-        "last_edit_date": 1651468617,
-        "question_id": 71645272,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71645272/importerror-cannot-import-name-markup-from-jinja2",
-        "title": "ImportError: cannot import name &#39;Markup&#39; from &#39;jinja2&#39;"
-    },
-    {
-        "tags": [
-            "python",
-            "floating-point",
-            "complex-numbers",
-            "approximate",
-            "structural-pattern-matching"
-        ],
-        "owner": {
-            "account_id": 186862,
-            "reputation": 220895,
-            "user_id": 424499,
-            "user_type": "registered",
-            "profile_image": "https://www.gravatar.com/avatar/bc2071afd499daef001e75e14d7f9cce?s=256&d=identicon&r=PG",
-            "display_name": "Raymond Hettinger",
-            "link": "https://stackoverflow.com/users/424499/raymond-hettinger"
-        },
-        "is_answered": true,
-        "view_count": 3509,
-        "accepted_answer_id": 72596437,
-        "answer_count": 2,
-        "score": 55,
-        "last_activity_date": 1656679394,
-        "creation_date": 1655074449,
-        "last_edit_date": 1655075960,
-        "question_id": 72596436,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72596436/how-to-perform-approximate-structural-pattern-matching-for-floats-and-complex",
-        "title": "How to perform approximate structural pattern matching for floats and complex"
-    },
-    {
-        "tags": [
-            "python",
-            "math",
-            "sqrt"
-        ],
-        "owner": {
-            "account_id": 4719941,
-            "reputation": 30042,
-            "user_id": 4518341,
-            "user_type": "registered",
-            "profile_image": "https://i.stack.imgur.com/XRndu.png?s=256&g=1",
-            "display_name": "wjandrea",
-            "link": "https://stackoverflow.com/users/4518341/wjandrea"
-        },
-        "is_answered": true,
-        "view_count": 66019,
-        "accepted_answer_id": 70793491,
-        "answer_count": 10,
-        "score": 53,
-        "last_activity_date": 1703800612,
-        "creation_date": 1642713374,
-        "last_edit_date": 1697340395,
-        "question_id": 70793490,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/70793490/how-do-i-calculate-square-root-in-python",
-        "title": "How do I calculate square root in Python?"
-    },
-    {
+    "71516140": {
+        "sentence": "FastAPI runs api-calls in serial instead of parallel fashion",
         "tags": [
             "python",
             "asynchronous",
             "python-asyncio",
             "fastapi",
             "concurrent-processing"
-        ],
-        "owner": {
-            "account_id": 1237641,
-            "reputation": 2360,
-            "user_id": 1200914,
-            "user_type": "registered",
-            "accept_rate": 89,
-            "profile_image": "https://www.gravatar.com/avatar/d3c21d029de13a98c973b98f28ad6867?s=256&d=identicon&r=PG",
-            "display_name": "Learning from masters",
-            "link": "https://stackoverflow.com/users/1200914/learning-from-masters"
-        },
-        "is_answered": true,
-        "view_count": 43782,
-        "protected_date": 1685986311,
-        "accepted_answer_id": 71517830,
-        "answer_count": 2,
-        "score": 53,
-        "last_activity_date": 1709449790,
-        "creation_date": 1647535766,
-        "last_edit_date": 1650812721,
-        "question_id": 71516140,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/71516140/fastapi-runs-api-calls-in-serial-instead-of-parallel-fashion",
-        "title": "FastAPI runs api-calls in serial instead of parallel fashion"
+        ]
     },
-    {
+    "71603314": {
+        "sentence": "SSL error unsafe legacy renegotiation disabled",
+        "tags": [
+            "python",
+            "ssl",
+            "openssl",
+            "runtime-error"
+        ]
+    },
+    "71644405": {
+        "sentence": "Why is it faster to compare strings that match than strings that do not?",
+        "tags": [
+            "python",
+            "performance",
+            "comparison"
+        ]
+    },
+    "71645272": {
+        "sentence": "ImportError: cannot import name &#39;Markup&#39; from &#39;jinja2&#39;",
+        "tags": [
+            "python",
+            "flask",
+            "jinja2"
+        ]
+    },
+    "71673404": {
+        "sentence": "ImportError: cannot import name &#39;_unicodefun&#39; from &#39;click&#39;",
+        "tags": [
+            "python",
+            "python-black"
+        ]
+    },
+    "71712258": {
+        "sentence": "ERROR: Could not build wheels for backports.zoneinfo, which is required to install pyproject.toml-based projects",
+        "tags": [
+            "python",
+            "django",
+            "heroku"
+        ]
+    },
+    "71759248": {
+        "sentence": "ImportError: cannot import name &#39;builder&#39; from &#39;google.protobuf.internal&#39;",
+        "tags": [
+            "python"
+        ]
+    },
+    "71898644": {
+        "sentence": "How to use python typing.Annotated?",
+        "tags": [
+            "python",
+            "python-typing"
+        ]
+    },
+    "72133316": {
+        "sentence": "libssl.so.1.1: cannot open shared object file: No such file or directory",
+        "tags": [
+            "python",
+            "linux",
+            "openssl",
+            "python-poetry"
+        ]
+    },
+    "72191560": {
+        "sentence": "ImportError: cannot import name &#39;soft_unicode&#39; from &#39;markupsafe&#39;",
+        "tags": [
+            "python",
+            "docker",
+            "docker-compose",
+            "dependencies",
+            "importerror"
+        ]
+    },
+    "72294299": {
+        "sentence": "Multiple top-level packages discovered in a flat-layout",
+        "tags": [
+            "python",
+            "python-poetry"
+        ]
+    },
+    "72326025": {
+        "sentence": "cannot import name &#39;pad_sequences&#39; from &#39;keras.preprocessing.sequence&#39;",
         "tags": [
             "python",
             "keras",
             "python-import"
-        ],
-        "owner": {
-            "account_id": 21037901,
-            "reputation": 520,
-            "user_id": 15460921,
-            "user_type": "registered",
-            "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gi7Gj0kCeAAyfShKeD_hYFIzMQnalEKsPLX3-NMFw=k-s256",
-            "display_name": "adhi",
-            "link": "https://stackoverflow.com/users/15460921/adhi"
-        },
-        "is_answered": true,
-        "view_count": 109240,
-        "protected_date": 1679307851,
-        "answer_count": 8,
-        "score": 52,
-        "last_activity_date": 1705327271,
-        "creation_date": 1653096480,
-        "last_edit_date": 1653153941,
-        "question_id": 72326025,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/72326025/cannot-import-name-pad-sequences-from-keras-preprocessing-sequence",
-        "title": "cannot import name &#39;pad_sequences&#39; from &#39;keras.preprocessing.sequence&#39;"
+        ]
     },
-    {
+    "72439001": {
+        "sentence": "There was an error checking the latest version of pip",
+        "tags": [
+            "python",
+            "pip"
+        ]
+    },
+    "72449482": {
+        "sentence": "f-string representation different than str()",
+        "tags": [
+            "python",
+            "enums",
+            "f-string"
+        ]
+    },
+    "72456234": {
+        "sentence": "Why does print(&quot;...&quot;), i.e. three dots in a row, print blank?",
+        "tags": [
+            "python",
+            "python-3.x",
+            "pycharm"
+        ]
+    },
+    "72568719": {
+        "sentence": "If Python strings are immutable, why does it keep the same id if I use += to append to it?",
+        "tags": [
+            "python",
+            "string",
+            "reference",
+            "immutability",
+            "string-concatenation"
+        ]
+    },
+    "72596436": {
+        "sentence": "How to perform approximate structural pattern matching for floats and complex",
+        "tags": [
+            "python",
+            "floating-point",
+            "complex-numbers",
+            "approximate",
+            "structural-pattern-matching"
+        ]
+    },
+    "72604922": {
+        "sentence": "How to convert Python dataclass to dictionary of string literal?",
+        "tags": [
+            "python",
+            "json",
+            "dictionary",
+            "python-dataclasses"
+        ]
+    },
+    "72706073": {
+        "sentence": "AttributeError: partially initialized module &#39;cv2&#39; has no attribute &#39;gapi_wip_gst_GStreamerPipeline&#39; (most likely due to a circular import)",
+        "tags": [
+            "python",
+            "opencv"
+        ]
+    },
+    "72773206": {
+        "sentence": "Selenium - Python - AttributeError: &#39;WebDriver&#39; object has no attribute &#39;find_element_by_name&#39;",
+        "tags": [
+            "python",
+            "selenium",
+            "google-chrome",
+            "selenium-webdriver",
+            "selenium-chromedriver"
+        ]
+    },
+    "72964800": {
+        "sentence": "What is the proper way to install TensorFlow on Apple M1 in 2022",
+        "tags": [
+            "python",
+            "tensorflow",
+            "conda",
+            "apple-m1"
+        ]
+    },
+    "73600082": {
+        "sentence": "How to reference a requirements.txt in the pyproject.toml of a setuptools project?",
+        "tags": [
+            "python",
+            "pip",
+            "setuptools",
+            "pyproject.toml"
+        ]
+    },
+    "73830524": {
+        "sentence": "AttributeError: module &#39;lib&#39; has no attribute &#39;X509_V_FLAG_CB_ISSUER_CHECK&#39;",
+        "tags": [
+            "python",
+            "google-analytics-api"
+        ]
+    },
+    "73929564": {
+        "sentence": "&#39;EntryPoints&#39; object has no attribute &#39;get&#39; - Digital ocean",
+        "tags": [
+            "python",
+            "django",
+            "digital-ocean"
+        ]
+    },
+    "74508024": {
+        "sentence": "Is requirements.txt still needed when using pyproject.toml?",
         "tags": [
             "python",
             "python-packaging",
             "requirements.txt",
             "pyproject.toml"
-        ],
-        "owner": {
-            "account_id": 3439063,
-            "reputation": 14355,
-            "user_id": 2881414,
-            "user_type": "registered",
-            "accept_rate": 56,
-            "profile_image": "https://i.stack.imgur.com/HRfVv.jpg?s=256&g=1",
-            "display_name": "Bastian Venthur",
-            "link": "https://stackoverflow.com/users/2881414/bastian-venthur"
-        },
-        "is_answered": true,
-        "view_count": 15706,
-        "accepted_answer_id": 74625055,
-        "answer_count": 5,
-        "score": 51,
-        "last_activity_date": 1706808839,
-        "creation_date": 1668946731,
-        "last_edit_date": 1687651968,
-        "question_id": 74508024,
-        "content_license": "CC BY-SA 4.0",
-        "link": "https://stackoverflow.com/questions/74508024/is-requirements-txt-still-needed-when-using-pyproject-toml",
-        "title": "Is requirements.txt still needed when using pyproject.toml?"
+        ]
+    },
+    "74711107": {
+        "sentence": "OpenAI API continuing conversation in a dialogue",
+        "tags": [
+            "python",
+            "openai-api"
+        ]
+    },
+    "74798626": {
+        "sentence": "Why is log(inf + inf j) equal to (inf + 0.785398 j), In C++/Python/NumPy?",
+        "tags": [
+            "python",
+            "c++",
+            "numpy",
+            "complex-numbers",
+            "infinity"
+        ]
+    },
+    "74844262": {
+        "sentence": "How can I solve error &quot;module &#39;numpy&#39; has no attribute &#39;float&#39;&quot; in Python?",
+        "tags": [
+            "python",
+            "numpy"
+        ]
+    },
+    "74981558": {
+        "sentence": "Error Updating Python3 pip AttributeError: module &#39;lib&#39; has no attribute &#39;OpenSSL_add_all_algorithms&#39;",
+        "tags": [
+            "python",
+            "ubuntu",
+            "pip",
+            "wsl-2"
+        ]
+    },
+    "75269700": {
+        "sentence": "pre-commit fails to install isort 5.11.4 with error &quot;RuntimeError: The Poetry configuration is invalid&quot;",
+        "tags": [
+            "python",
+            "pre-commit",
+            "pre-commit.com",
+            "isort"
+        ]
+    },
+    "75354384": {
+        "sentence": "Why is b.pop(0) over 200 times slower than del b[0] for bytearray?",
+        "tags": [
+            "python",
+            "arrays",
+            "performance",
+            "cpython",
+            "python-internals"
+        ]
+    },
+    "75397736": {
+        "sentence": "Poetry install on an existing project Error &quot;does not contain any element&quot;",
+        "tags": [
+            "python",
+            "python-poetry"
+        ]
+    },
+    "75495800": {
+        "sentence": "Error: Unable to extract uploader id - Youtube, Discord.py",
+        "tags": [
+            "python",
+            "ffmpeg",
+            "discord",
+            "youtube-dl"
+        ]
+    },
+    "75602063": {
+        "sentence": "pip install -r requirements.txt is failing: &quot;This environment is externally managed&quot;",
+        "tags": [
+            "python",
+            "linux"
+        ]
+    },
+    "75898276": {
+        "sentence": "OpenAI API error 429: &quot;You exceeded your current quota, please check your plan and billing details&quot;",
+        "tags": [
+            "python",
+            "prompt",
+            "openai-api",
+            "completion",
+            "chatgpt-api"
+        ]
+    },
+    "76187256": {
+        "sentence": "ImportError: urllib3 v2.0 only supports OpenSSL 1.1.1+, currently the &#39;ssl&#39; module is compiled with LibreSSL 2.8.3",
+        "tags": [
+            "python",
+            "openai-api",
+            "urllib3"
+        ]
+    },
+    "76414514": {
+        "sentence": "&quot;cannot import name &#39;DEFAULT_CIPHERS&#39; from &#39;urllib3.util.ssl_&#39;&quot; on AWS Lambda using a layer",
+        "tags": [
+            "python",
+            "amazon-web-services",
+            "amazon-s3",
+            "aws-lambda",
+            "boto3"
+        ]
+    },
+    "76616042": {
+        "sentence": "AttributeError: module &#39;PIL.Image&#39; has no attribute &#39;ANTIALIAS&#39;",
+        "tags": [
+            "python",
+            "python-imaging-library"
+        ]
+    },
+    "77213053": {
+        "sentence": "Why did Flask start failing with &quot;ImportError: cannot import name &#39;url_quote&#39; from &#39;werkzeug.urls&#39;&quot;?",
+        "tags": [
+            "python",
+            "flask",
+            "pytest",
+            "werkzeug"
+        ]
+    },
+    "77364550": {
+        "sentence": "AttributeError: module &#39;pkgutil&#39; has no attribute &#39;ImpImporter&#39;. Did you mean: &#39;zipimporter&#39;?",
+        "tags": [
+            "python",
+            "python-3.x",
+            "pip"
+        ]
+    },
+    "77634955": {
+        "sentence": "Why is the simpler loop slower?",
+        "tags": [
+            "python",
+            "performance",
+            "cpython",
+            "python-internals",
+            "python-3.11"
+        ]
     }
-]
+}
