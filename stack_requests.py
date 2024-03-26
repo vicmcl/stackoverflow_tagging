@@ -24,5 +24,6 @@ for question_data in response['items']:
     questions[question_data["question_id"]]["sentence"] = question_data["title"]
     questions[question_data["question_id"]]["tags"] = question_data["tags"]
 
-with open("data/questions.json", "w") as f:
+with open("data/api_response.json", "w") as f:
     json.dump(questions, f)
+    
